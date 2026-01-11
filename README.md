@@ -12,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Manas-5461X/Leetcode/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Manas-5461X/Leetcode/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Manas-5461X/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
