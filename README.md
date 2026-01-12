@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Manas-5461X/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Manas-5461X/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Manas-5461X/Leetcode/tree/master/0050-powx-n) |
 | [0319-bulb-switcher](https://github.com/Manas-5461X/Leetcode/tree/master/0319-bulb-switcher) |
 ## Brainteaser
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manas-5461X/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Manas-5461X/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
