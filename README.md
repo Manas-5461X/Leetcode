@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manas-5461X/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Manas-5461X/Leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/Manas-5461X/Leetcode/tree/master/0041-first-missing-positive) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manas-5461X/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1470-shuffle-the-array](https://github.com/Manas-5461X/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manas-5461X/Leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manas-5461X/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Manas-5461X/Leetcode/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Manas-5461X/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
