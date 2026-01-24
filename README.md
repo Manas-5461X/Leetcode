@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Manas-5461X/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Manas-5461X/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Manas-5461X/Leetcode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/Manas-5461X/Leetcode/tree/master/0041-first-missing-positive) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manas-5461X/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1470-shuffle-the-array](https://github.com/Manas-5461X/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manas-5461X/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Manas-5461X/Leetcode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manas-5461X/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Manas-5461X/Leetcode/tree/master/0168-excel-sheet-column-title) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Manas-5461X/Leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
