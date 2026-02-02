@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Manas-5461X/Leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Manas-5461X/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Manas-5461X/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Manas-5461X/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Manas-5461X/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Manas-5461X/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Manas-5461X/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0319-bulb-switcher](https://github.com/Manas-5461X/Leetcode/tree/master/0319-bulb-switcher) |
 ## Brainteaser
@@ -57,10 +59,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Manas-5461X/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Manas-5461X/Leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Manas-5461X/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Manas-5461X/Leetcode/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Manas-5461X/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
