@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Manas-5461X/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Manas-5461X/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Manas-5461X/Leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manas-5461X/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Manas-5461X/Leetcode/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Manas-5461X/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manas-5461X/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manas-5461X/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Manas-5461X/Leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manas-5461X/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Manas-5461X/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manas-5461X/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manas-5461X/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
