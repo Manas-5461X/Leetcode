@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Manas-5461X/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Manas-5461X/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manas-5461X/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/Manas-5461X/Leetcode/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Manas-5461X/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Manas-5461X/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0344-reverse-string](https://github.com/Manas-5461X/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
