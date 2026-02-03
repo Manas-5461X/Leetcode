@@ -16,14 +16,15 @@ class Solution {
         // return sum ;
 
 
-          int officer = 0;  
-
-        for (int cm = 0; cm < nums.length; cm++) { 
-            if (nums[cm] != val) {
-                nums[officer] = nums[cm];
-                officer++;
+         int i =0;
+        int j = 0;
+        while(j<nums.length){
+            if(nums[j]!=val){
+               nums[i] = nums[j];
+               i++;
             }
+            j++;
         }
-        return officer;
+        return i;
     }
 }
