@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Manas-5461X/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Manas-5461X/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Manas-5461X/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/Manas-5461X/Leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Manas-5461X/Leetcode/tree/master/0319-bulb-switcher) |
 ## Brainteaser
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Manas-5461X/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Manas-5461X/Leetcode/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
@@ -84,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Manas-5461X/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Manas-5461X/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
