@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Manas-5461X/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Manas-5461X/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Manas-5461X/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Manas-5461X/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Manas-5461X/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Manas-5461X/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Manas-5461X/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Manas-5461X/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Manas-5461X/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
