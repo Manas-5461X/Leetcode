@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Manas-5461X/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manas-5461X/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Manas-5461X/Leetcode/tree/master/0414-third-maximum-number) |
+| [0477-total-hamming-distance](https://github.com/Manas-5461X/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manas-5461X/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Manas-5461X/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Manas-5461X/Leetcode/tree/master/0896-monotonic-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manas-5461X/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Manas-5461X/Leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Manas-5461X/Leetcode/tree/master/0319-bulb-switcher) |
+| [0477-total-hamming-distance](https://github.com/Manas-5461X/Leetcode/tree/master/0477-total-hamming-distance) |
 ## Brainteaser
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manas-5461X/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Manas-5461X/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Manas-5461X/Leetcode/tree/master/0231-power-of-two) |
+| [0477-total-hamming-distance](https://github.com/Manas-5461X/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Manas-5461X/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Manas-5461X/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
