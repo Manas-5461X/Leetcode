@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manas-5461X/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Manas-5461X/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Manas-5461X/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Manas-5461X/Leetcode/tree/master/0029-divide-two-integers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manas-5461X/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Manas-5461X/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Manas-5461X/Leetcode/tree/master/0231-power-of-two) |
 ## Greedy
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Manas-5461X/Leetcode/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Manas-5461X/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
