@@ -13,15 +13,18 @@ class Solution {
         }
 
         for (int i = 0; i < n; i++) {
-           if (map.getOrDefault(nums[i], 0) > 1) { 
+            if(map.containsKey(nums[i])){
+
+            if (map.get(nums[i]) > 1) {
                 map.remove(nums[i]);
+            }
             }
         }
 
         int sum = 0;
         for (int key : map.keySet()) {
-             sum += key ;
+            sum += key;
         }
-       return sum ;
+        return sum;
     }
 }
