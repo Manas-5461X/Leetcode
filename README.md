@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Manas-5461X/Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Manas-5461X/Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Manas-5461X/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manas-5461X/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Manas-5461X/Leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Manas-5461X/Leetcode/tree/master/0319-bulb-switcher) |
+| [0412-fizz-buzz](https://github.com/Manas-5461X/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Manas-5461X/Leetcode/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/Manas-5461X/Leetcode/tree/master/0477-total-hamming-distance) |
 ## Brainteaser
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Manas-5461X/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Manas-5461X/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manas-5461X/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Manas-5461X/Leetcode/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
