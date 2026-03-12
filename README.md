@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manas-5461X/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Manas-5461X/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Manas-5461X/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Manas-5461X/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Manas-5461X/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manas-5461X/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Manas-5461X/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manas-5461X/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Counting Sort
