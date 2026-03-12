@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manas-5461X/Leetcode/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Manas-5461X/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## String
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Manas-5461X/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manas-5461X/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Manas-5461X/Leetcode/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/Manas-5461X/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manas-5461X/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manas-5461X/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Manas-5461X/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Manas-5461X/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manas-5461X/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Counting Sort
 |  |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Manas-5461X/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Manas-5461X/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
