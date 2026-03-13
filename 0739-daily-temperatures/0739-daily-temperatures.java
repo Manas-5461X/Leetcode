@@ -6,8 +6,8 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         int[] res = new int[n];
 
-        st.push(n - 1);
         res[n - 1] = 0;
+        st.push(n - 1);
 
         for(int i = n - 2; i >= 0; i--) {
 
