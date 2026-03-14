@@ -2,29 +2,23 @@
 public class Solution {
     public int evalRPN(String[] tokens) {
 
-        int n = tokens.length;
-        Stack<Integer> st = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
 
-        for (int i = 0; i < n; i++) {
-            String s = tokens[i];
+        for(String s : tokens){
 
-            if (!s.equals("+") && !s.equals("-") && !s.equals("*") && !s.equals("/")) {
+            if(!s.equals("+") && !s.equals("-") && !s.equals("*") && !s.equals("/")){
                 st.push(Integer.parseInt(s));
-            } else {
+            }else{
                 int b = st.pop();
                 int a = st.pop();
 
-                if (s.equals("+"))
-                    st.push(a + b);
-                else if (s.equals("-"))
-                    st.push(a - b);
-                else if (s.equals("*"))
-                    st.push(a * b);
-                else if (s.equals("/"))
-                    st.push(a / b);
+                if(s.equals("+")) st.push(a + b);
+                else if(s.equals("-")) st.push(a - b);
+                else if(s.equals("*")) st.push(a * b);
+                else st.push(a / b);
             }
         }
 
-        return st.peek();
+        return st.pop();
     }
 }
