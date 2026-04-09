@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Manas-5461X/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Manas-5461X/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Manas-5461X/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Manas-5461X/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manas-5461X/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Manas-5461X/Leetcode/tree/master/0412-fizz-buzz) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Manas-5461X/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manas-5461X/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Manas-5461X/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manas-5461X/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -302,10 +305,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Manas-5461X/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manas-5461X/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
