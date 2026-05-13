@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Manas-5461X/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Manas-5461X/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Manas-5461X/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Manas-5461X/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Manas-5461X/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manas-5461X/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Manas-5461X/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Manas-5461X/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Manas-5461X/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
