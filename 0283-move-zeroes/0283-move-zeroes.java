@@ -1,21 +1,16 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int i = 0; 
-        int j = 1; 
+        // we are building the "non-zero section" at the front so we are swapping when it is non zero 
 
-        while (j < nums.length) {
-            if (nums[i] == 0 && nums[j] != 0) {
-   
+        int i = 0;
+
+        for (int j = 0; j < nums.length; j++) {
+
+            if (nums[j] != 0) {
                 int temp = nums[i];
                 nums[i] = nums[j];
                 nums[j] = temp;
                 i++;
-                j++;
-            } else if (nums[i] != 0) {
-                i++;
-                j++;
-            } else { // this handles when nums[j] = 0 
-                j++; 
             }
         }
     }
