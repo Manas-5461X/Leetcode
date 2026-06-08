@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Manas-5461X/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0496-next-greater-element-i](https://github.com/Manas-5461X/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manas-5461X/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Manas-5461X/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Manas-5461X/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Manas-5461X/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Manas-5461X/Leetcode/tree/master/0724-find-pivot-index) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manas-5461X/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manas-5461X/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Manas-5461X/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Manas-5461X/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/Manas-5461X/Leetcode/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/Manas-5461X/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Manas-5461X/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Manas-5461X/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Manas-5461X/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
