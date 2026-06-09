@@ -1,7 +1,7 @@
 class Solution {
 
     public int pivotIndex(int[] nums) {
-
+ // this is optimized , even brute force will work find left sum , then right sum and then compare 
         int totalSum = 0;
 
         for (int num : nums) {
