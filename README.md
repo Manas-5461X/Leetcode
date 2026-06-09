@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Manas-5461X/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Manas-5461X/Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Manas-5461X/Leetcode/tree/master/0941-valid-mountain-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Manas-5461X/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manas-5461X/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Manas-5461X/Leetcode/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/Manas-5461X/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Manas-5461X/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Manas-5461X/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Manas-5461X/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Manas-5461X/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/Manas-5461X/Leetcode/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/Manas-5461X/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Manas-5461X/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Manas-5461X/Leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Manas-5461X/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Manas-5461X/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
