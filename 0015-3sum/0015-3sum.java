@@ -1,41 +1,45 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-
-        List<List<Integer>> res = new ArrayList<>();
+        Arrays.sort(nums);
         int n = nums.length;
 
-        Arrays.sort(nums);
+        List<List<Integer>> result = new ArrayList<>();
 
         for (int i = 0; i < n - 2; i++) {
 
-            // skip duplicate i
+            // skip duplicate 'i' values
             if (i > 0 && nums[i] == nums[i - 1]) continue;
 
-            int j = i + 1;
-            int k = n - 1;
+            int left = i + 1;
+            int right = n - 1;
 
-            while (j < k) {
-                int sum = nums[i] + nums[j] + nums[k];
+            while (left < right) {
+                int csum = nums[i] + nums[left] + nums[right];
 
-                if (sum == 0) {
-                    res.add(Arrays.asList(nums[i], nums[j], nums[k])); //uitility method to convert a given element to a list 
+                if (csum == 0) {
+                    ArrayList<Integer> triplet = new ArrayList<>();
+                    triplet.add(nums[i]);
+                    triplet.add(nums[left]);
+                    triplet.add(nums[right]);
+                    result.add(triplet);
 
-                    j++;
-                    k--;
+                    left++;
+                    right--;
 
-                    // skip duplicate j
-                    while (j < k && nums[j] == nums[j - 1]) j++;
+                    // skip duplicate 'left' values
+                    while (left < right && nums[left] == nums[left - 1]) left++;
 
-                    // skip duplicate k
-                    while (j < k && nums[k] == nums[k + 1]) k--;
+                    // skip duplicate 'right' values
+                    while (left < right && nums[right] == nums[right + 1]) right--;
 
-                } else if (sum < 0) {
-                    j++;
+                } else if (csum > 0) {
+                    right--;
                 } else {
-                    k--;
+                    left++;
                 }
             }
         }
-        return res;
+
+        return result;
     }
 }
