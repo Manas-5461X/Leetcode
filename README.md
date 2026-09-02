@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Manas-5461X/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1748-sum-of-unique-elements](https://github.com/Manas-5461X/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Manas-5461X/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Manas-5461X/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Manas-5461X/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Manas-5461X/Leetcode/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/Manas-5461X/Leetcode/tree/master/0477-total-hamming-distance) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Manas-5461X/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
 | ------- |
