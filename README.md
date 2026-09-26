@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Manas-5461X/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Manas-5461X/Leetcode/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/Manas-5461X/Leetcode/tree/master/0477-total-hamming-distance) |
+| [0509-fibonacci-number](https://github.com/Manas-5461X/Leetcode/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Manas-5461X/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Manas-5461X/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Manas-5461X/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Manas-5461X/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Manas-5461X/Leetcode/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Manas-5461X/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Manas-5461X/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Manas-5461X/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Manas-5461X/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
@@ -413,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Manas-5461X/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Manas-5461X/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
