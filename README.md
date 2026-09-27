@@ -100,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Manas-5461X/Leetcode/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/Manas-5461X/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0509-fibonacci-number](https://github.com/Manas-5461X/Leetcode/tree/master/0509-fibonacci-number) |
+| [2396-strictly-palindromic-number](https://github.com/Manas-5461X/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Manas-5461X/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Manas-5461X/Leetcode/tree/master/0319-bulb-switcher) |
+| [2396-strictly-palindromic-number](https://github.com/Manas-5461X/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manas-5461X/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Manas-5461X/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manas-5461X/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/Manas-5461X/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
