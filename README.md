@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Manas-5461X/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Manas-5461X/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Manas-5461X/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Manas-5461X/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Manas-5461X/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Manas-5461X/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Manas-5461X/Leetcode/tree/master/0069-sqrtx) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Manas-5461X/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Manas-5461X/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Manas-5461X/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Manas-5461X/Leetcode/tree/master/0509-fibonacci-number) |
@@ -496,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Manas-5461X/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
