@@ -13,27 +13,25 @@
  *     }
  * }
  */
-
 class Solution {
-
-    int prev = -1;
-    int ans = Integer.MAX_VALUE;
-
+    TreeNode prev = null;
+    public int min = Integer.MAX_VALUE;
     public int minDiffInBST(TreeNode root) {
-        if(root == null) return ans;
         inorder(root);
-        return ans;
+        return min;
     }
-
-    public void inorder(TreeNode root) {
-        if(root == null) return;
+    public void inorder(TreeNode root){
+        if(root == null){
+            return;
+        }
         inorder(root.left);
-
-        if(prev != -1) {
-            ans = Math.min(ans, root.val - prev);
+        
+        if(prev != null){
+            min = Math.min(min,root.val-prev.val);
         }
 
-        prev = root.val;
+        prev = root;
         inorder(root.right);
+
     }
 }
