@@ -27,7 +27,7 @@ class Solution {
         inorder(root.left);
         
         if(prev != null){
-            min = Math.min(min,root.val-prev.val);
+            min = Math.min(min,root.val - prev.val);
         }
 
         prev = root;
