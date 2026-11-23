@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Manas-5461X/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0509-fibonacci-number](https://github.com/Manas-5461X/Leetcode/tree/master/0509-fibonacci-number) |
 | [0829-consecutive-numbers-sum](https://github.com/Manas-5461X/Leetcode/tree/master/0829-consecutive-numbers-sum) |
+| [2235-add-two-integers](https://github.com/Manas-5461X/Leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Manas-5461X/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Manas-5461X/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
