@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manas-5461X/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Manas-5461X/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Manas-5461X/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Manas-5461X/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Manas-5461X/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Manas-5461X/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Manas-5461X/Leetcode/tree/master/0739-daily-temperatures) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Manas-5461X/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Manas-5461X/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manas-5461X/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Manas-5461X/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Manas-5461X/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Manas-5461X/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Manas-5461X/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
