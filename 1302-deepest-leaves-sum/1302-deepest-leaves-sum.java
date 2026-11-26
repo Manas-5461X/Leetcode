@@ -16,6 +16,7 @@
 class Solution {
     public int deepestLeavesSum(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
+        int sum = 0;
 
         if(root == null) return 0;
 
@@ -24,7 +25,7 @@ class Solution {
 
         while(!q.isEmpty()) {
             int size = q.size();
-            int sum = 0;
+            sum = 0 ;
 
             for(int i = 0; i < size; i++) {
                 TreeNode curr = q.poll();
@@ -39,10 +40,8 @@ class Solution {
                     q.add(curr.right);
                 }
             }
-
-            ans.add(sum);
         }
         
-        return ans.get(ans.size() - 1);
+        return sum;
     }
 }
